@@ -23,7 +23,5 @@ As I progress through my studies, I aim to gain hands-on experience in software 
    </tr>
 </table>  
 
-## Let's Connect
 
-- **Email**: your-email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+

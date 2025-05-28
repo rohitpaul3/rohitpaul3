@@ -1,6 +1,6 @@
 ## Heya Guys! 👋
 
-Hello! I'm Rohit, a first-year Computer Science Engineering student with a passion for technology and innovation. I'm currently deep diving into Java and web development.
+Hello! I'm Rohit, a second-year Computer Science Engineering student with a passion for technology and innovation. I'm currently deep diving into Java and web development.
 
 ## Interests
 
